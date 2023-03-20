@@ -1,0 +1,18 @@
+TUPLAS
+Uma tupla é uma sequência imutável de itens. Literais de tupla colocam os itens entre parênteses. É essencialmente como uma lista de métodos modificadores. Uma tupla com um item ainda deve incluir uma vírgula.
+
+LISTA
+É uma sequência de zero ou mais objetos Python, comumente chamados itens. Uma lista tem uma apresentação literal, que usa colchetes para incluir itens separados por vírgulas.
+
+ADICIONAR ELEMENTE A UMA LISTA
+
+lista1.append("Amanda")
+print(lista1)
+
+REMOVER ELEMENTO DA LISTA
+ 
+lista1.remove("Amanda")
+print(lista1)
+
+lista1.pop(3)
+print(lista1)
